@@ -3,9 +3,10 @@
 #     Week 02, STACK
 #     Brother Jonesl, CS235
 # Author:
-#     <your name here>
+#     Nathan Bench, Jeremy Chandler, Justin Chandler
 # Summary:
-#     <put a description here>
+#     Implementation of the Stack container to create an
+#     Infix-to-postfix converter.
 # Time:
 #     <how long did it take to complete this program>?
 ###############################################################
